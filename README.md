@@ -82,7 +82,7 @@ This is the most common mistake made by most of us, that is using while-loop eve
     8
     9
     over
-> Execution time is : 0.05827617645263672
+    > Execution time is : 0.05827617645263672
     
 <h3>using while-loop</h3>
     
