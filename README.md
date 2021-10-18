@@ -45,7 +45,7 @@ In one of my previous repos about different [swapping techniques](https://github
     b = 20
     a, b = b, a
     print(a,b)
-    
+> Execution time is :  0.014656782150268555
  
 Instead of the below code
 
@@ -57,3 +57,5 @@ Instead of the below code
     print(x,y)
     
     Output: 20 10
+> Execution time is : 0.014772176742553711
+Might be closer but worthwhile when running in a loop.
