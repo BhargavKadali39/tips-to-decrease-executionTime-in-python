@@ -24,3 +24,15 @@ Example:
     output:
       10
       9
+      
+> Execution time: 0.008982419967651367
+
+    import math
+    
+    i = 9.67
+    
+    print(ceil(i))
+    print(floor(i))
+    
+> Execution time: 0.01605224609375
+see the difference, amazing right
