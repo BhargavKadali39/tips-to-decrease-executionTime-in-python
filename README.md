@@ -36,3 +36,24 @@ Example:
     
 > Execution time: 0.01605224609375
 see the difference, amazing right
+
+
+## no temp variables 
+In one of my previous repos about different [swapping techniques](https://github.com/BhargavKadali39/Swapping_in_python) I stated to use <br>
+
+    a = 10
+    b = 20
+    a, b = b, a
+    print(a,b)
+    
+ 
+Instead of the below code
+
+    x = 10
+    y = 20
+    temp = x
+    x = y
+    y = temp
+    print(x,y)
+    
+    Output: 20 10
