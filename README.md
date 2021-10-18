@@ -82,7 +82,7 @@ This is the most common mistake made by most of us, that is using while-loop eve
     8
     9
     over
-    > Execution time is : 0.05827617645263672
+> Execution time is : 0.05827617645263672
     
 <h3>using while-loop</h3>
     
@@ -107,4 +107,9 @@ This is the most common mistake made by most of us, that is using while-loop eve
     9
     over
 > Execution time is : 0.07421302795410156
-    
+
+The old saying goes
+Little efforts can  make a huge impact.
+
+As a programmer I say
+Every bit counts ;)
