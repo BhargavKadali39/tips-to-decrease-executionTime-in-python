@@ -59,3 +59,6 @@ Instead of the below code
     Output: 20 10
 > Execution time is : 0.014772176742553711
 Might be closer but worthwhile when running in a loop.
+
+## for loop for the win
+This is the most common mistake made by most of us, that is using while-loop even tho the job could be done with a for-loop.
