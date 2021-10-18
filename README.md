@@ -10,11 +10,17 @@ When we try to use certain module and we know it's sole purpose is only to serve
 Then try importing only that single function instead of the whole thing.
 
 syntax
-> from module_name import function_name
+> from module_name import function_name1, function_name2,etc,...
 
-    from math import ceil floor
+Example:
+
+    from math import ceil, floor
     
     i = 9.67
     
     print(ceil(i))
     print(floor(i))
+    
+    output:
+      10
+      9
