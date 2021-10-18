@@ -62,3 +62,49 @@ Might be closer but worthwhile when running in a loop.
 
 ## for loop for the win
 This is the most common mistake made by most of us, that is using while-loop even tho the job could be done with a for-loop.
+<h3>using for-loop</h3>
+
+    
+    for i in range(10):
+    print(i)
+    if i == 9:
+        print('over')
+        
+    output:
+    0
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    over
+    Execution time is : 0.05827617645263672
+    
+<h3>using while-loop</h3>
+    
+    i=0
+    while True:
+        print(i)
+        i += 1
+        if i == 10:
+            print('over')
+            break
+            
+    output:
+    0
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    over
+    Execution time is : 0.07421302795410156
+    
