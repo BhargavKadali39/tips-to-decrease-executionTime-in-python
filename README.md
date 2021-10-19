@@ -5,6 +5,13 @@ As a beginner I admit that most of the tips given below are some of my deeds too
 
 The method I used here to calculate the time is previously explained in one of my repos which you can find by<br>[clicking here](https://github.com/BhargavKadali39/Execution_time)
   
+  
+## points to be noted beforehand
+
+ * The execution-time for every code given below is based on multiple runs and optimal one of all.
+ * Check out the other files in this repo for hands-on trial.
+ * Time may vary device to device.
+ 
 ## do not import the whole module
 When we try to use certain module and we know it's sole purpose is only to serve a single function.
 Then try importing only that single function instead of the whole thing.
