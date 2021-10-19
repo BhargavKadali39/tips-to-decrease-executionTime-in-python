@@ -38,8 +38,8 @@ Example:
     
     i = 9.67
     
-    print(ceil(i))
-    print(floor(i))
+    print(math.ceil(i))
+    print(math.floor(i))
     
 > Execution time: 0.01605224609375
 see the difference, amazing right
