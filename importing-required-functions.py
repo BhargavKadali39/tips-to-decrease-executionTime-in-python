@@ -1,12 +1,12 @@
 import time
 start_time = time.time()
 #------------------------- code area -----------------------------------------
-import math
+from math import ceil, floor
 
 i = 9.67
 
-print(math.ceil(i))
-print(math.floor(i))
+print(ceil(i))
+print(floor(i))
 
 #------------------------- code area -----------------------------------------
 end_time = time.time()
